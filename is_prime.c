@@ -22,7 +22,7 @@ void prime(int x)
 	
 	m=2;
 	while(m<x)
-	{
+	{ 
 		if(x%m==0)
 		{
 			printf("it is composite");
