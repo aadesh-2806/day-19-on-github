@@ -5,7 +5,7 @@ int main()
 {
 	int i,m,n,l,x,s,y,a[50],b[50],c[50][50];
 	
-	printf("Welcome\nEnter no,of values=\n");
+	printf("Welcome\nEnter no,of values=\n"); 
 	scanf("%d" ,&n);
 
 	i=0;
