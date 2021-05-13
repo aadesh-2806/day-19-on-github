@@ -3,7 +3,7 @@
 void main()
 {	
 	int i,k,n,a[50];
-	
+	 
 	printf("hello aadesh agrawal(2019uec1660)\nenter number of values=");
 	scanf("%d",&n);
 
