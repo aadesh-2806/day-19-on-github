@@ -31,5 +31,5 @@ void prime(int x)
 		m++;
 	}
 	
-	getch();
+	getch(); 
 }
