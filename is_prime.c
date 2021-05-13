@@ -5,7 +5,7 @@ void prime(int);
 void main()
 {
 	int a,b,c,t;
-	
+	 
 	printf("hello\nenter no.=");
 	scanf("%d",&a);
 	
